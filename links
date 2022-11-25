@@ -1,3 +1,7 @@
+Svelte
+Svelte is a popular framework because of its ability to compile down to a tiny footprint making it incredibly fast. It compiles code down to tiny, highly efficient components of vanilla JavaScript. 
+
+
 Reduces performance when handling Heavy Computing Tasks
 Node.js invites a lot of code changes due to Unstable API
 Node.js Asynchronous Programming Model makes it difficult to maintain code
