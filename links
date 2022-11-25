@@ -82,3 +82,9 @@ Coming to the production for large companies
   
   Angular js
 AngularJS is a great framework for developing high-quality dynamic web applications. This is because AngularJS is feature-rich and developers do not need to depend on any third-party software to support their applications
+
+
+
+JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+
+TypeScript is JavaScript with syntax for types. TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale. Editor Checks.
