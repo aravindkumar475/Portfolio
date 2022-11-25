@@ -1,3 +1,21 @@
+What is the difference between a framework and library?
+Image result for library vs framework
+Libraries provide developers with predefined functions and classes to make their work easier and boost the development process. Framework, on the other hand, is like the foundation upon which developers build applications for specific platforms.
+
+
+What is a framework?
+A software framework is a piece of code that performs a certain job, irrespective of the program it is implemented in.
+
+what is the library?
+A library is a set of code written previously by another programmer that others can make use of legally in building their programs. This code reusability greatly improves the structure of code and makes the whole process quicker.
+
+Take the real-world example of a car.
+
+
+
+
+
+
 https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/demo-1/components/accordion
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117
 
